@@ -172,3 +172,5 @@ WARNING: Steam Link devices will only boot with a kernel signed by Valve. If you
 ```Bash
 # make modules
 ```
+### Booting the customized kernel
+See kexec-module/README.md
